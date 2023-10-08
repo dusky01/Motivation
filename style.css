@@ -20,7 +20,7 @@ body {
   background-size: cover; 
   background-repeat: no-repeat; 
   background-attachment: fixed; 
-  background-position: bottom;
+  background-position: center;
   -moz-osx-font-smoothing: grayscale;
   -webkit-align-items: center;
   -webkit-flex-direction: column;
